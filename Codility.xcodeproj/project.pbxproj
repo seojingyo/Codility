@@ -7,6 +7,15 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		FBB8D6BA1EDE934D007E9A8E /* PermMissingElem.h in Headers */ = {isa = PBXBuildFile; fileRef = FBB8D6B81EDE934D007E9A8E /* PermMissingElem.h */; };
+		FBB8D6BB1EDE934D007E9A8E /* PermMissingElem.m in Sources */ = {isa = PBXBuildFile; fileRef = FBB8D6B91EDE934D007E9A8E /* PermMissingElem.m */; };
+		FBB8D6BC1EDE934D007E9A8E /* PermMissingElem.m in Sources */ = {isa = PBXBuildFile; fileRef = FBB8D6B91EDE934D007E9A8E /* PermMissingElem.m */; };
+		FBB8D6BF1EDEABFF007E9A8E /* FrogJmp.h in Headers */ = {isa = PBXBuildFile; fileRef = FBB8D6BD1EDEABFF007E9A8E /* FrogJmp.h */; };
+		FBB8D6C01EDEABFF007E9A8E /* FrogJmp.m in Sources */ = {isa = PBXBuildFile; fileRef = FBB8D6BE1EDEABFF007E9A8E /* FrogJmp.m */; };
+		FBB8D6C11EDEABFF007E9A8E /* FrogJmp.m in Sources */ = {isa = PBXBuildFile; fileRef = FBB8D6BE1EDEABFF007E9A8E /* FrogJmp.m */; };
+		FBB8D6C41EDEB6A5007E9A8E /* TapeEquilibrium.h in Headers */ = {isa = PBXBuildFile; fileRef = FBB8D6C21EDEB6A5007E9A8E /* TapeEquilibrium.h */; };
+		FBB8D6C51EDEB6A5007E9A8E /* TapeEquilibrium.m in Sources */ = {isa = PBXBuildFile; fileRef = FBB8D6C31EDEB6A5007E9A8E /* TapeEquilibrium.m */; };
+		FBB8D6C61EDEB6A5007E9A8E /* TapeEquilibrium.m in Sources */ = {isa = PBXBuildFile; fileRef = FBB8D6C31EDEB6A5007E9A8E /* TapeEquilibrium.m */; };
 		FBE1132F1EDE49C200721375 /* Codility.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FBE113251EDE49C200721375 /* Codility.framework */; };
 		FBE113341EDE49C200721375 /* CodilityTests.m in Sources */ = {isa = PBXBuildFile; fileRef = FBE113331EDE49C200721375 /* CodilityTests.m */; };
 		FBE113361EDE49C200721375 /* Codility.h in Headers */ = {isa = PBXBuildFile; fileRef = FBE113281EDE49C200721375 /* Codility.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -32,6 +41,12 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		FBB8D6B81EDE934D007E9A8E /* PermMissingElem.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PermMissingElem.h; sourceTree = "<group>"; };
+		FBB8D6B91EDE934D007E9A8E /* PermMissingElem.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PermMissingElem.m; sourceTree = "<group>"; };
+		FBB8D6BD1EDEABFF007E9A8E /* FrogJmp.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FrogJmp.h; sourceTree = "<group>"; };
+		FBB8D6BE1EDEABFF007E9A8E /* FrogJmp.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FrogJmp.m; sourceTree = "<group>"; };
+		FBB8D6C21EDEB6A5007E9A8E /* TapeEquilibrium.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TapeEquilibrium.h; sourceTree = "<group>"; };
+		FBB8D6C31EDEB6A5007E9A8E /* TapeEquilibrium.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TapeEquilibrium.m; sourceTree = "<group>"; };
 		FBE113251EDE49C200721375 /* Codility.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Codility.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		FBE113281EDE49C200721375 /* Codility.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Codility.h; sourceTree = "<group>"; };
 		FBE113291EDE49C200721375 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -65,6 +80,19 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		FBB8D6B71EDE8B01007E9A8E /* Lession 3 */ = {
+			isa = PBXGroup;
+			children = (
+				FBB8D6B81EDE934D007E9A8E /* PermMissingElem.h */,
+				FBB8D6B91EDE934D007E9A8E /* PermMissingElem.m */,
+				FBB8D6BD1EDEABFF007E9A8E /* FrogJmp.h */,
+				FBB8D6BE1EDEABFF007E9A8E /* FrogJmp.m */,
+				FBB8D6C21EDEB6A5007E9A8E /* TapeEquilibrium.h */,
+				FBB8D6C31EDEB6A5007E9A8E /* TapeEquilibrium.m */,
+			);
+			name = "Lession 3";
+			sourceTree = "<group>";
+		};
 		FBE1131B1EDE49C200721375 = {
 			isa = PBXGroup;
 			children = (
@@ -86,6 +114,7 @@
 		FBE113271EDE49C200721375 /* Codility */ = {
 			isa = PBXGroup;
 			children = (
+				FBB8D6B71EDE8B01007E9A8E /* Lession 3 */,
 				FBE113451EDE4BE500721375 /* Lession 2 */,
 				FBE1133F1EDE49CC00721375 /* Lession 1 */,
 				FBE113281EDE49C200721375 /* Codility.h */,
@@ -130,10 +159,13 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FBB8D6BF1EDEABFF007E9A8E /* FrogJmp.h in Headers */,
 				FBE113421EDE49E600721375 /* BinaryGap.h in Headers */,
 				FBE1134D1EDE57D600721375 /* CyclicRotation.h in Headers */,
+				FBB8D6BA1EDE934D007E9A8E /* PermMissingElem.h in Headers */,
 				FBE113361EDE49C200721375 /* Codility.h in Headers */,
 				FBE113481EDE4C0900721375 /* OddOccurrencesInArray.h in Headers */,
+				FBB8D6C41EDEB6A5007E9A8E /* TapeEquilibrium.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -236,7 +268,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FBB8D6C01EDEABFF007E9A8E /* FrogJmp.m in Sources */,
 				FBE113431EDE49E600721375 /* BinaryGap.m in Sources */,
+				FBB8D6C51EDEB6A5007E9A8E /* TapeEquilibrium.m in Sources */,
+				FBB8D6BB1EDE934D007E9A8E /* PermMissingElem.m in Sources */,
 				FBE1134E1EDE57D600721375 /* CyclicRotation.m in Sources */,
 				FBE113491EDE4C0900721375 /* OddOccurrencesInArray.m in Sources */,
 			);
@@ -248,6 +283,9 @@
 			files = (
 				FBE113341EDE49C200721375 /* CodilityTests.m in Sources */,
 				FBE113441EDE49E600721375 /* BinaryGap.m in Sources */,
+				FBB8D6BC1EDE934D007E9A8E /* PermMissingElem.m in Sources */,
+				FBB8D6C61EDEB6A5007E9A8E /* TapeEquilibrium.m in Sources */,
+				FBB8D6C11EDEABFF007E9A8E /* FrogJmp.m in Sources */,
 				FBE1134F1EDE57D600721375 /* CyclicRotation.m in Sources */,
 				FBE1134A1EDE4C0900721375 /* OddOccurrencesInArray.m in Sources */,
 			);
@@ -441,6 +479,7 @@
 				FBE1133B1EDE49C200721375 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		FBE1133C1EDE49C200721375 /* Build configuration list for PBXNativeTarget "CodilityTests" */ = {
 			isa = XCConfigurationList;
@@ -449,6 +488,7 @@
 				FBE1133E1EDE49C200721375 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

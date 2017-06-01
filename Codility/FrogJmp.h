@@ -1,5 +1,5 @@
 //
-//  OddOccurrencesInArray.h
+//  FrogJmp.h
 //  Codility
 //
 //  Created by 122316 on 2017. 5. 31..
@@ -8,8 +8,7 @@
 
 #import <Foundation/Foundation.h>
 
-@interface OddOccurrencesInArray : NSObject
+@interface FrogJmp : NSObject
 
-+(int)solution:(NSMutableArray *)A;
-    
++ (int)solution:(int)X Y:(int)Y D:(int)D;
 @end

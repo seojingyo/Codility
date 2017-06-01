@@ -7,7 +7,7 @@
 //
 
 #import <XCTest/XCTest.h>
-
+#import "TapeEquilibrium.h"
 @interface CodilityTests : XCTestCase
 
 @end
@@ -27,6 +27,7 @@
 - (void)testExample {
     // This is an example of a functional test case.
     // Use XCTAssert and related functions to verify your tests produce the correct results.
+    [TapeEquilibrium solution:[NSMutableArray arrayWithObjects:@"3",@"1",@"2",@"4",@"3", nil]];
 }
 
 - (void)testPerformanceExample {

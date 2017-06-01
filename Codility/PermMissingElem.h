@@ -1,5 +1,5 @@
 //
-//  OddOccurrencesInArray.h
+//  PermMissingElem.h
 //  Codility
 //
 //  Created by 122316 on 2017. 5. 31..
@@ -8,8 +8,8 @@
 
 #import <Foundation/Foundation.h>
 
-@interface OddOccurrencesInArray : NSObject
+@interface PermMissingElem : NSObject
 
 +(int)solution:(NSMutableArray *)A;
-    
+
 @end

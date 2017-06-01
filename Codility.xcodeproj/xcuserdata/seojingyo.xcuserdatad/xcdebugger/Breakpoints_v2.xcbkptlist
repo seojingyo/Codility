@@ -26,7 +26,7 @@
                   moduleName = "CodilityTests"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/seojingyo/Documents/Development/Github/Codility/Codility/BinaryGap.m"
-                  timestampString = "517890882.578102"
+                  timestampString = "517916346.616572"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "58"
@@ -41,12 +41,60 @@
                   moduleName = "Codility"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/seojingyo/Documents/Development/Github/Codility/Codility/BinaryGap.m"
-                  timestampString = "517890882.585117"
+                  timestampString = "517916346.621455"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "58"
                   endingLineNumber = "58"
                   offsetFromSymbolStart = "869">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Codility/TapeEquilibrium.m"
+            timestampString = "517916344.007722"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "74"
+            endingLineNumber = "74"
+            landmarkName = "+solution:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "+[TapeEquilibrium solution:]"
+                  moduleName = "CodilityTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/seojingyo/Documents/Development/Github/Codility/Codility/TapeEquilibrium.m"
+                  timestampString = "517916346.618678"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "74"
+                  endingLineNumber = "74"
+                  offsetFromSymbolStart = "334">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "+[TapeEquilibrium solution:]"
+                  moduleName = "Codility"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/seojingyo/Documents/Development/Github/Codility/Codility/TapeEquilibrium.m"
+                  timestampString = "517916346.623576"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "74"
+                  endingLineNumber = "74"
+                  offsetFromSymbolStart = "334">
                </Location>
             </Locations>
          </BreakpointContent>
